@@ -58,5 +58,17 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "Más Negro Que La Noche",
+  },
+
+ },
+  {
+    "imdbId": "tt0242601",
+    "tipo": "movie",
+    "temporada": null,
+    "episodio": null,
+    "url": "https://archive.org/download/lbropdra_202609/LBROPDRA.mkv",
+    "idioma": "Latino",
+    "calidad": "1080p",
+    "titulo": "El Libro De Piedra",
   }, 
 ]
