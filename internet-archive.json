@@ -38,5 +38,15 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "Gravity Falls",
+  },
+  {
+    "imdbId": "tt0318627",
+    "tipo": "movie",
+    "temporada": null,
+    "episodio": null,
+    "url": "https://archive.org/download/6_20200518_20200518/2.MP4",
+    "idioma": "Latino",
+    "calidad": "1080p",
+    "titulo": "Resident Evil 2: Apocalipsis",    
   }
 ]
