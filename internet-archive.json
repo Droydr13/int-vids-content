@@ -48,8 +48,8 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "Resident Evil 2: Apocalipsis",    
-}
-{
+  },
+  {
     "imdbId": "tt0223777",
     "tipo": "movie",
     "temporada": null,
@@ -58,5 +58,5 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "Más Negro Que La Noche",
- }
+  }
 ]
