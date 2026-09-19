@@ -278,5 +278,15 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "El Grupo Increible",
+  },
+  {
+    "imdbId": "tt0220892",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 4,
+    "url": "https://archive.org/download/drack-pack-04-dreadful-weather-were-having-september-27-1980-ai-upscale-1080p-au/Drack%20Pack%2004%20-%20Dreadful%20Weather%20We%27re%20Having%20%28September%2027%2C%201980%29AI%20Upscale%201080p%20Audio%20Latino%20-%20FB.RETROGEEKSCR.mkv",
+    "idioma": "Latino",
+    "calidad": "1080p",
+    "titulo": "El Grupo Increible",
   } 
 ]
