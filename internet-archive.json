@@ -378,5 +378,15 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "El Grupo Increible",
+  }, 
+  {
+    "imdbId": "tt0220892",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 14,
+    "url": "https://archive.org/download/drack-pack-014-the-grimmest-book-of-records-december-6-1980-ai-upscale-1080p-aud/Drack%20Pack%20014%20-%20The%20Grimmest%20Book%20of%20Records%20%28December%206%2C%201980%29AI%20Upscale%201080p%20Audio%20Latino%20-%20FB.RETROGEEKSCR.mkv",
+    "idioma": "Latino",
+    "calidad": "1080p",
+    "titulo": "El Grupo Increible",
   } 
 ]
