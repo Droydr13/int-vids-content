@@ -338,5 +338,15 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "El Grupo Increible",
+  }, 
+  {
+    "imdbId": "tt0220892",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 10,
+    "url": "https://archive.org/download/drack-pack-010-dreds-photo-finish-november-8-1980-2-ai-upscale-1080p-audio-latino-fb.-retrogeekscr/Drack%20Pack%20010%20-%20Dred%27s%20Photo%20Finish%20%28November%208%2C%201980%29%20%282%29AI%20Upscale%201080p%20Audio%20Latino%20-%20FB.RETROGEEKSCR.mkv",
+    "idioma": "Latino",
+    "calidad": "1080p",
+    "titulo": "El Grupo Increible",
   } 
 ]
