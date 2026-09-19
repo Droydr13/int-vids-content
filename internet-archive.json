@@ -258,5 +258,15 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "El Grupo Increible",
-  }  
+  }, 
+  {
+    "imdbId": "tt0220892",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 2,
+    "url": "https://archive.org/download/drack-pack-02-mind-your-manners-dr.-dred-september-13-1980-ai-upscale-1080p-audi/Drack%20Pack%2002%20-%20Mind%20Your%20Manners%2C%20Dr.%20Dred%20%28September%2013%2C%201980%29AI%20Upscale%201080p%20Audio%20Latino%20-%20FB.RETROGEEKSCR.mkv",
+    "idioma": "Latino",
+    "calidad": "1080p",
+    "titulo": "El Grupo Increible",
+  } 
 ]
