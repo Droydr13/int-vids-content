@@ -268,5 +268,15 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "El Grupo Increible",
+  },
+  {
+    "imdbId": "tt0220892",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 3,
+    "url": "https://archive.org/download/drack-pack-03-happy-birthday-dr.-dred-september-20-1980-ai-upscale-1080p-audio-l/Drack%20Pack%2003%20-%20Happy%20Birthday%2C%20Dr.%20Dred%20%28September%2020%2C%201980%29AI%20Upscale%201080p%20Audio%20Latino%20-%20FB.RETROGEEKSCR.mkv",
+    "idioma": "Latino",
+    "calidad": "1080p",
+    "titulo": "El Grupo Increible",
   } 
 ]
