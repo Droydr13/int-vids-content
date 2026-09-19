@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Resolver el link nuevo 
-        run: curl -sf "https://TU-SERVICIO-RENDER.onrender.com/sync?secret=${{ secrets.RESOLVE_SECRET }}&fuente=contribuciones"
+        run: curl -sf "https://vids-scrapp.onrender.com/sync?secret=${{ secrets.RESOLVE_SECRET }}&fuente=contribuciones"
 
       - name: Avisarle al addon 
         run: curl -sf "https://addonlatam.duckdns.org/admin/refresh-vids-contrib?secret=${{ secrets.M3U_REFRESH_SECRET }}"
