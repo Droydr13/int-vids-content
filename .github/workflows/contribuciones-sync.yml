@@ -1,0 +1,16 @@
+name: Sync vids.st contribuciones
+
+on:
+  push:
+    paths:
+      - 'contribuciones.html'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Resolver el link nuevo en vidsst-scraper (solo contribuciones)
+        run: curl -sf "https://TU-SERVICIO-RENDER.onrender.com/sync?secret=${{ secrets.RESOLVE_SECRET }}&fuente=contribuciones"
+
+      - name: Avisarle al addon en Oracle que hay contribuciones nuevas
+        run: curl -sf "https://addonlatam.duckdns.org/admin/refresh-vids-contrib?secret=${{ secrets.M3U_REFRESH_SECRET }}"
