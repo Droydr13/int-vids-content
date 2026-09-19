@@ -388,5 +388,15 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "El Grupo Increible",
+  }, 
+  {
+    "imdbId": "tt0220892",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 15,
+    "url": "https://archive.org/download/drack-pack-015-international-graffiti-december-13-1980-ai-upscale-1080p-audio-la/Drack%20Pack%20015%20-%20International%20Graffiti%20%28December%2013%2C%201980%29AI%20Upscale%201080p%20Audio%20Latino%20-%20FB.RETROGEEKSCR.mkv",
+    "idioma": "Latino",
+    "calidad": "1080p",
+    "titulo": "El Grupo Increible",
   } 
 ]
