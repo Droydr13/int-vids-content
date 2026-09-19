@@ -288,5 +288,15 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "El Grupo Increible",
+  },
+  {
+    "imdbId": "tt0220892",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 5,
+    "url": "https://archive.org/download/drack-pack-05-perilous-plunder-of-pirates-park-october-4-1980-ai-upscale-1080p-a/Drack%20Pack%2005%20-%20Perilous%20Plunder%20of%20Pirate%27s%20Park%20%28October%204%2C%201980%29AI%20Upscale%201080p%20Audio%20Latino%20-%20FB.RETROGEEKSCR.mkv",
+    "idioma": "Latino",
+    "calidad": "1080p",
+    "titulo": "El Grupo Increible",
   } 
 ]
