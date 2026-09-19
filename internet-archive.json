@@ -308,5 +308,15 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "El Grupo Increible",
+  },
+  {
+    "imdbId": "tt0220892",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 7,
+    "url": "https://archive.org/download/drack-pack-07-time-out-for-dr.-dred-october-18-1980-2-ai-upscale-1080p-audio-latino-fb.-retrogeekscr/Drack%20Pack%2007%20-%20Time%20Out%20for%20Dr.%20Dred%20%28October%2018%2C%201980%29%20%282%29AI%20Upscale%201080p%20Audio%20Latino%20-%20FB.RETROGEEKSCR.mkv",
+    "idioma": "Latino",
+    "calidad": "1080p",
+    "titulo": "El Grupo Increible",
   } 
 ]
