@@ -9,7 +9,7 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Resolver el link nuevo en vidsst-scraper
+      - name: Resolver el link nuevo
         run: curl -sf "https://vids-scrapp.onrender.com/sync?secret=${{ secrets.RESOLVE_SECRET }}"
 
       - name: Avisarle al addon
