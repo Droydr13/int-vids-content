@@ -208,5 +208,15 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "Josie y las melodicas",
+  },
+  {
+    "imdbId": "tt0068088",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 13,
+    "url": "https://archive.org/download/13_20260919_202609/13.mp4",
+    "idioma": "Latino",
+    "calidad": "1080p",
+    "titulo": "Josie y las melodicas",
   } 
 ]
