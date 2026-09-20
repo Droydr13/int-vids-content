@@ -1,0 +1,16 @@
+name: Sync firestream pendientes
+
+on:
+  push:
+    paths:
+      - 'pendientes-firestream.html'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Resolver el link nuevo en vidsst-scraper (solo firestream)
+        run: curl -sf "https://TU-SERVICIO-RENDER.onrender.com/sync?secret=${{ secrets.RESOLVE_SECRET }}&fuente=firestream"
+
+      - name: Avisarle al addon en Oracle que hay links nuevos
+        run: curl -sf "https://addonlatam.duckdns.org/admin/refresh-firestream-manual?secret=${{ secrets.M3U_REFRESH_SECRET }}"
