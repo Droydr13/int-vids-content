@@ -418,15 +418,5 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "Gettysburg", 
-  },
-  {
-  	"imdbId": "tt5677942",
-  	"tipo": "series",
-  	"temporada": 1,
-  	"episodio": 1,
-  	"url": "https://ok.ru/videoembed/4641148504687",
-  	"idioma": "Latino",
-  	"calidad": "360p",
-  	"titulo": "La niña",
   }
 ]
