@@ -1,0 +1,16 @@
+name: Sync contribuciones-firestream
+
+on:
+  push:
+    paths:
+      - 'contribuciones-firestream.html'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Indexar el embed nuevo 
+        run: curl -sf "https://vids-scrapp.onrender.com/sync?secret=${{ secrets.RESOLVE_SECRET }}&fuente=firestream-contrib"
+
+      - name: Avisarle al addon 
+        run: curl -sf "https://addonlatam.duckdns.org/admin/refresh-firestream-contrib?secret=${{ secrets.M3U_REFRESH_SECRET }}"
