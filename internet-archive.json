@@ -474,5 +474,26 @@
     "titulo": "Hotel Transylvania 2",
     "peso": "17.7 GB",
     "agregado": "2026-09-22T22:24:50.972Z"
+  },
+  {
+    "imdbId": "tt2294629",
+    "tipo": "movie",
+    "temporada": null,
+    "episodio": null,
+    "url": "https://archive.org/download/skilift-survival-thriller-2010-archive/GREEN_Chairlift_Survival_2010_1080p_Multi_Archive/%D2%92%D2%92%E1%8E%A1%E1%8E%A100%CE%96%CE%9633%C3%91%C3%9110%C3%91%CE%9C%D0%B3%CE%A7/Frozen.2010.1080p.DD2.0.x264-MrCrimsonX.mkv",
+    "idioma": "Multi",
+    "idiomaDetalle": [
+      "Latino",
+      "Castellano",
+      "Inglés"
+    ],
+    "calidad": "1080p",
+    "tags": [
+      "BDRIP"
+    ],
+    "plataforma": "Disney",
+    "titulo": "Frozen: Una Aventura Congelada",
+    "peso": "10.6 GB",
+    "agregado": "2026-09-22T22:28:07.258Z"
   }
 ]
