@@ -476,24 +476,24 @@
     "agregado": "2026-09-22T22:24:50.972Z"
   },
   {
-    "imdbId": "tt2294629",
+    "imdbId": "tt0363771",
     "tipo": "movie",
     "temporada": null,
     "episodio": null,
-    "url": "https://archive.org/download/skilift-survival-thriller-2010-archive/GREEN_Chairlift_Survival_2010_1080p_Multi_Archive/%D2%92%D2%92%E1%8E%A1%E1%8E%A100%CE%96%CE%9633%C3%91%C3%9110%C3%91%CE%9C%D0%B3%CE%A7/Frozen.2010.1080p.DD2.0.x264-MrCrimsonX.mkv",
-    "idioma": "Multi",
+    "url": "https://archive.org/download/c-s-lewis-fantasy-1005-preservation/NARNIA1.2005.1080p.BD.REMUX.DUAL.LAT-ENG.mkv/L%D0%B0%D1%95%20%D0%A1r%C3%B3n%D1%96%D1%81%D0%B0%D1%95%20d%D0%B5%20N%D0%B0rn%D1%96%D0%B0%20%D0%95l%20l%D0%B5%C3%B3n%2C%20l%D0%B0%20bru%D1%98%D0%B0%20%D1%83%20%D0%B5l%20r%D0%BE%D1%80%D0%B5r%D0%BE%20%282005%29%201080%D1%80%20R%D0%95%D0%9CU%D0%A5%20L%D0%B0t%D1%96n%D0%BE%D1%96ngl%C3%A9%D1%95.mkv",
+    "idioma": "Dual",
     "idiomaDetalle": [
       "Latino",
-      "Castellano",
       "Inglés"
     ],
     "calidad": "1080p",
     "tags": [
-      "BDRIP"
+      "H264",
+      "REMUX"
     ],
-    "plataforma": "Disney",
-    "titulo": "Frozen: Una Aventura Congelada",
-    "peso": "10.6 GB",
-    "agregado": "2026-09-22T22:28:07.258Z"
+    "plataforma": null,
+    "titulo": "Las crónicas de Narnia: El león, la bruja y el ropero",
+    "peso": "31 GB",
+    "agregado": "2026-09-22T22:32:03.420Z"
   }
 ]
