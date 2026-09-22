@@ -438,5 +438,23 @@
     "plataforma": "Sony",
     "titulo": "Hotel Transylvania",
     "agregado": "2026-09-22T00:15:25.110Z"
+  },
+  {
+    "imdbId": "tt0114709",
+    "tipo": "movie",
+    "temporada": null,
+    "episodio": null,
+    "url": "https://archive.org/download/pixar-computer-animation-1995-remux/Sheriff_Woody_Origin_1995_Remux/%D0%A2%D0%BE%D1%83.%D0%85t%D0%BEr%D1%83.%281995%29.R%D0%95%D0%9CU%D0%A5.4%D0%9A.DV.%D0%9DDR10.L%D0%B0t%D1%96n%D0%BE-%D1%96ngl%C3%A9%D1%95.mkv",
+    "idioma": "Dual",
+    "idiomaDetalle": [
+      "Latino",
+      "Inglés"
+    ],
+    "calidad": "4K",
+    "tags": [],
+    "plataforma": "Disney",
+    "titulo": "Toy Story",
+    "peso": "38 GB",
+    "agregado": "2026-09-22T00:49:33.784Z"
   }
 ]
