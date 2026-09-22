@@ -456,5 +456,23 @@
     "titulo": "Toy Story",
     "peso": "38 GB",
     "agregado": "2026-09-22T00:49:33.784Z"
+  },
+  {
+    "imdbId": "tt2510894",
+    "tipo": "movie",
+    "temporada": null,
+    "episodio": null,
+    "url": "https://archive.org/download/sony-animation-sequel-preservation-2015/Dennis_Vampire_Heritage_Chronicles_2015_BDREMUX_Archive/Hotel%20Transilvania%202%20%282015%29%201080p%20x264%20BDRemux%20audio%20es-419%20en%20subt%20es%20en%20%5BGDriveLatinoHD%5D.mkv",
+    "idioma": null,
+    "idiomaDetalle": [],
+    "calidad": "1080p",
+    "tags": [
+      "H264",
+      "REMUX"
+    ],
+    "plataforma": "Sony",
+    "titulo": "Hotel Transylvania 2",
+    "peso": "17.7 GB",
+    "agregado": "2026-09-22T22:24:50.972Z"
   }
 ]
