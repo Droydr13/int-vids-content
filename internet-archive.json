@@ -78,7 +78,7 @@
     "idioma": "Latino",
     "calidad": "1080p",
     "titulo": "El Demonio"
-  },  
+  },
   {
     "imdbId": "tt0117397",
     "tipo": "movie",
@@ -515,5 +515,20 @@
     "titulo": "Payasos Asesinos del Espacio Exterior",
     "peso": "6.70 GB",
     "agregado": "2026-09-23T02:03:35.424Z"
+  },
+  {
+    "imdbId": "tt14681924",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 2,
+    "url": "https://frv2.plauymito.live/hls/Is5MBVblmScyeqRgn8HEqREk79oyMEhl/master.txt",
+    "idioma": "Latino",
+    "idiomaDetalle": [],
+    "calidad": "1080p",
+    "tags": [],
+    "plataforma": null,
+    "titulo": "Mis Aventuras con Superman",
+    "peso": null,
+    "agregado": "2026-09-23T18:42:27.356Z"
   }
 ]
