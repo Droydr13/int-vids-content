@@ -495,5 +495,25 @@
     "titulo": "Las crónicas de Narnia: El león, la bruja y el ropero",
     "peso": "31 GB",
     "agregado": "2026-09-22T22:32:03.420Z"
+  },
+  {
+    "imdbId": "tt0095444",
+    "tipo": "movie",
+    "temporada": null,
+    "episodio": null,
+    "url": "https://archive.org/download/PAYAEXTERIOR/PAYAEXTERIOR.mkv",
+    "idioma": "Dual",
+    "idiomaDetalle": [
+      "Latino",
+      "Inglés"
+    ],
+    "calidad": "1080p",
+    "tags": [
+      "WEB-DL"
+    ],
+    "plataforma": null,
+    "titulo": "Payasos Asesinos del Espacio Exterior",
+    "peso": "6.70 GB",
+    "agregado": "2026-09-23T02:03:35.424Z"
   }
 ]
