@@ -530,5 +530,23 @@
     "titulo": "Mis Aventuras con Superman",
     "peso": null,
     "agregado": "2026-09-23T18:42:27.356Z"
+  },
+  {
+    "imdbId": "tt0207120",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 1,
+    "url": "https://frv2.plauymito.live/hls/bGfRugpKGAFSjBaudmPCr84fl6J48prp/master.txt",
+    "idioma": "Dual",
+    "idiomaDetalle": [
+      "Latino",
+      "Inglés"
+    ],
+    "calidad": "480p",
+    "tags": [],
+    "plataforma": null,
+    "titulo": "El Hombre-Araña: Sin Limites",
+    "peso": null,
+    "agregado": "2026-09-23T19:06:22.712Z"
   }
 ]
