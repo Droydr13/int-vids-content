@@ -548,5 +548,20 @@
     "titulo": "El Hombre-Araña: Sin Limites",
     "peso": null,
     "agregado": "2026-09-23T19:06:22.712Z"
+  },
+  {
+    "imdbId": "tt4574334",
+    "tipo": "series",
+    "temporada": 2,
+    "episodio": 5,
+    "url": "https://frv2.plauymito.live/hls/CFpdnrdNPmliKpH13NPyt9KE9Ob7Oh8b/index_avc_480p.txt",
+    "idioma": "Latino",
+    "idiomaDetalle": [],
+    "calidad": "1080p",
+    "tags": [],
+    "plataforma": null,
+    "titulo": "Stranger Things",
+    "peso": null,
+    "agregado": "2026-09-24T00:56:35.539Z"
   }
 ]
