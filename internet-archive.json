@@ -1166,5 +1166,27 @@
     "titulo": "Súper Escuela de Héroes",
     "peso": "3.6 GB",
     "agregado": "2026-09-24T19:27:55.029Z"
+  },
+  {
+    "imdbId": "tt1119646",
+    "tipo": "movie",
+    "temporada": null,
+    "episodio": null,
+    "url": "https://archive.org/download/vegas-wolfpack-incident-2009-4k-remu/WARNER.2009.VEGAS.BACHELOR.PROJECT.2160P.UHD.REMUX.DV.HDR.DUAL/%C2%BFQu%C3%A9%20Pas%C3%B3%20Ayer%20%282009%29%204K%20DV%20HDR%20Latino-Ingl%C3%A9s.mkv",
+    "idioma": "Dual",
+    "idiomaDetalle": [
+      "Latino",
+      "Inglés"
+    ],
+    "calidad": "4K",
+    "tags": [
+      "HDR",
+      "REMUX",
+      "DVDRIP"
+    ],
+    "plataforma": null,
+    "titulo": "¿Qué Pasó Ayer?",
+    "peso": "17.3 GB",
+    "agregado": "2026-09-24T19:31:32.511Z"
   }
 ]
