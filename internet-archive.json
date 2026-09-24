@@ -579,8 +579,8 @@
     "imdbId": "tt0112159",
     "tipo": "series",
     "temporada": 1,
-    "episodio": 9,
-    "url": "https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_09_%40Trapo2019_Universo_Anime.mkv",
+    "episodio": 11,
+    "url": "https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_11_%40Trapo2019_Universo_Anime.mkv",
     "idioma": "Multi",
     "idiomaDetalle": [
       "Latino",
@@ -595,28 +595,6 @@
     "plataforma": null,
     "titulo": "Neon Genesis Evangelion",
     "peso": null,
-    "agregado": "2026-09-24T05:56:07.038Z"
-  },
-  {
-    "imdbId": "tt0112159",
-    "tipo": "series",
-    "temporada": 1,
-    "episodio": 10,
-    "url": "https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_10_%40Trapo2019_Universo_Anime.mkv",
-    "idioma": "Multi",
-    "idiomaDetalle": [
-      "Latino",
-      "Castellano",
-      "Japonés"
-    ],
-    "calidad": "720p",
-    "tags": [
-      "H264",
-      "WEB-DL"
-    ],
-    "plataforma": null,
-    "titulo": "Neon Genesis Evangelion",
-    "peso": null,
-    "agregado": "2026-09-24T05:56:08.152Z"
+    "agregado": "2026-09-24T05:56:10.707Z"
   }
 ]
