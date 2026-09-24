@@ -533,5 +533,22 @@
     "titulo": "El Hombre-Araña: Sin Limites",
     "peso": null,
     "agregado": "2026-09-23T19:06:22.712Z"
+  },
+  {
+    "imdbId": "tt0111987",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 3,
+    "url": "https://archive.org/download/goosebumps.-s-01-e-03.-the.-cuckoo.-clock.of.-doom.-dvdremux.-mpeg.-aac.-2.0/Goosebumps.S01E03.The.Cuckoo.Clock.of.Doom.DVDRemux.MPEG.AAC.2.0.mkv",
+    "idioma": null,
+    "idiomaDetalle": [],
+    "calidad": null,
+    "tags": [
+      "H264"
+    ],
+    "plataforma": null,
+    "titulo": "Escalofríos",
+    "peso": "934 MB",
+    "agregado": "2026-09-24T05:24:32.229Z"
   }
 ]
