@@ -517,21 +517,6 @@
     "agregado": "2026-09-23T02:03:35.424Z"
   },
   {
-    "imdbId": "tt14681924",
-    "tipo": "series",
-    "temporada": 1,
-    "episodio": 2,
-    "url": "https://frv2.plauymito.live/hls/Is5MBVblmScyeqRgn8HEqREk79oyMEhl/master.txt",
-    "idioma": "Latino",
-    "idiomaDetalle": [],
-    "calidad": "1080p",
-    "tags": [],
-    "plataforma": null,
-    "titulo": "Mis Aventuras con Superman",
-    "peso": null,
-    "agregado": "2026-09-23T18:42:27.356Z"
-  },
-  {
     "imdbId": "tt0207120",
     "tipo": "series",
     "temporada": 1,
@@ -548,41 +533,5 @@
     "titulo": "El Hombre-Araña: Sin Limites",
     "peso": null,
     "agregado": "2026-09-23T19:06:22.712Z"
-  },
-  {
-    "imdbId": "tt4574334",
-    "tipo": "series",
-    "temporada": 2,
-    "episodio": 5,
-    "url": "https://frv2.plauymito.live/hls/CFpdnrdNPmliKpH13NPyt9KE9Ob7Oh8b/index_avc_480p.txt",
-    "idioma": "Latino",
-    "idiomaDetalle": [],
-    "calidad": "1080p",
-    "tags": [],
-    "plataforma": null,
-    "titulo": "Stranger Things",
-    "peso": null,
-    "agregado": "2026-09-24T00:56:35.539Z"
-  },
-  {
-    "imdbId": "tt0111987",
-    "tipo": "series",
-    "temporada": 1,
-    "episodio": 3,
-    "url": "https://playmate.to/embed/SPgvS4xOicG5D",
-    "idioma": "Multi",
-    "idiomaDetalle": [
-      "Latino",
-      "Castellano",
-      "Inglés"
-    ],
-    "calidad": "720p",
-    "tags": [
-      "REMUX"
-    ],
-    "plataforma": null,
-    "titulo": "Escalofríos",
-    "peso": "934 MB",
-    "agregado": "2026-09-24T05:01:36.451Z"
   }
 ]
