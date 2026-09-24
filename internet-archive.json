@@ -1145,5 +1145,26 @@
     "titulo": "Neon Genesis Evangelion",
     "peso": null,
     "agregado": "2026-09-24T13:33:24.137Z"
+  },
+  {
+    "imdbId": "tt0405325",
+    "tipo": "movie",
+    "temporada": null,
+    "episodio": null,
+    "url": "https://archive.org/download/hero-academy-openmatte-preservation-2005/Will_Stronghold_Hero_Academy_2005_OpenMatte_Archive/Escuela%20De%20Super%20Heroes%20%28Sky%20High%29%20%282005%29%20%20%5BOPEN%20MATTE%5D.mkv",
+    "idioma": "Dual",
+    "idiomaDetalle": [
+      "Latino",
+      "Inglés"
+    ],
+    "calidad": "1080p",
+    "tags": [
+      "H264",
+      "WEB-DL"
+    ],
+    "plataforma": null,
+    "titulo": "Súper Escuela de Héroes",
+    "peso": "3.6 GB",
+    "agregado": "2026-09-24T19:27:55.029Z"
   }
 ]
