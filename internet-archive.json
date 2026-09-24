@@ -1188,5 +1188,26 @@
     "titulo": "¿Qué Pasó Ayer?",
     "peso": "17.3 GB",
     "agregado": "2026-09-24T19:31:32.511Z"
+  },
+  {
+    "imdbId": "tt0111987",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 1,
+    "url": "https://archive.org/download/goosebumps.-s-01-e-01-e-02.-the.-haunted.-mask.-dvdremux.-mpeg.-aac.-2.0/Goosebumps.S01E01E02.The.Haunted.Mask.DVDRemux.MPEG.AAC.2.0.mkv",
+    "idioma": "Multi",
+    "idiomaDetalle": [
+      "Latino",
+      "Castellano",
+      "Inglés"
+    ],
+    "calidad": "720p",
+    "tags": [
+      "H264"
+    ],
+    "plataforma": null,
+    "titulo": "Escalofríos",
+    "peso": "1.8 GB",
+    "agregado": "2026-09-24T20:02:56.705Z"
   }
 ]
