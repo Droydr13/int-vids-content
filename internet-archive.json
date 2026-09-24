@@ -576,25 +576,24 @@
     "agregado": "2026-09-24T05:43:46.099Z"
   },
   {
-    "imdbId": "tt0112159",
+    "imdbId": "tt0111987",
     "tipo": "series",
     "temporada": 1,
-    "episodio": 26,
-    "url": "https://archive.org/download/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs/TPO_Neon_Genesis_Evangelion_26_%40Trapo2019_Universo_Anime.mkv",
+    "episodio": 4,
+    "url": "https://archive.org/download/goosebumps.-s-01-e-04.-the.-girl.-who.-cried.-monster.-dvdremux.-mpeg.-aac.-2.0/Goosebumps.S01E04.The.Girl.Who.Cried.Monster.DVDRemux.MPEG.AAC.2.0.mkv",
     "idioma": "Multi",
     "idiomaDetalle": [
       "Latino",
       "Castellano",
-      "Japonés"
+      "Inglés"
     ],
     "calidad": "720p",
     "tags": [
-      "H264",
-      "WEB-DL"
+      "H264"
     ],
     "plataforma": null,
-    "titulo": "Neon Genesis Evangelion",
-    "peso": null,
-    "agregado": "2026-09-24T05:56:28.851Z"
+    "titulo": "Escalofríos",
+    "peso": "1.0 GB",
+    "agregado": "2026-09-24T06:00:35.313Z"
   }
 ]
