@@ -1209,23 +1209,5 @@
     "titulo": "Escalofríos",
     "peso": "1.8 GB",
     "agregado": "2026-09-24T20:02:56.705Z"
-  },
-  {
-    "imdbId": "tt4574334",
-    "tipo": "series",
-    "temporada": 1,
-    "episodio": 1,
-    "url": "https://archive.org/download/s-4-e-09-el-huesped/S1E01%20La%20Desaparici%C3%B3n%20De%20Will%20Byers.mkv",
-    "idioma": "Latino",
-    "idiomaDetalle": [],
-    "calidad": "1080p",
-    "tags": [
-      "H264",
-      "WEB-DL"
-    ],
-    "plataforma": "Netflix",
-    "titulo": "Stranger Things",
-    "peso": "1.9 GB",
-    "agregado": "2026-10-01T19:52:13.533Z"
   }
 ]
