@@ -1659,5 +1659,23 @@
     "titulo": "Mona la Vampira",
     "peso": null,
     "agregado": "2026-10-11T16:50:58.936Z"
+  },
+  {
+    "imdbId": "tt0262972",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 26,
+    "url": "https://archive.org/download/mona_la_vampira_temporada_1/Mona%20la%20vampira%20s01e26%20Lavado%20de%20cerebro%20-%20El%20regreso%20de%20Von%20Macabrula.mkv",
+    "idioma": "Latino",
+    "idiomaDetalle": [],
+    "calidad": "720p",
+    "tags": [
+      "DVDRIP",
+      "AAC"
+    ],
+    "plataforma": "Canal Once",
+    "titulo": "Mona la Vampira",
+    "peso": null,
+    "agregado": "2026-10-11T16:51:00.228Z"
   }
 ]
