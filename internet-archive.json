@@ -1209,5 +1209,23 @@
     "titulo": "Escalofríos",
     "peso": "1.8 GB",
     "agregado": "2026-09-24T20:02:56.705Z"
+  },
+  {
+    "imdbId": "tt0262972",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 1,
+    "url": "https://archive.org/download/mona_la_vampira_temporada_1/Mona%20la%20vampira%20s01e01%20El%20ataque%20del%20espantapajaro%20viviente%20-%20La%20ninera%20robot.mkv",
+    "idioma": "Latino",
+    "idiomaDetalle": [],
+    "calidad": "720p",
+    "tags": [
+      "DVDRIP",
+      "AAC"
+    ],
+    "plataforma": "Canal Once",
+    "titulo": "Mona la Vampira",
+    "peso": null,
+    "agregado": "2026-10-11T16:50:23.775Z"
   }
 ]
