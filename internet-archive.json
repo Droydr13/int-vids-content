@@ -1407,5 +1407,23 @@
     "titulo": "Mona la Vampira",
     "peso": null,
     "agregado": "2026-10-11T16:50:39.224Z"
+  },
+  {
+    "imdbId": "tt0262972",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 12,
+    "url": "https://archive.org/download/mona_la_vampira_temporada_1/Mona%20la%20vampira%20s01e12%20La%20casa%20embrujada%20de%20la%20Srta.%20Gotto%20-%20El%20grito%20del%20monstruo%20del%20pantano.mkv",
+    "idioma": "Latino",
+    "idiomaDetalle": [],
+    "calidad": "720p",
+    "tags": [
+      "DVDRIP",
+      "AAC"
+    ],
+    "plataforma": "Canal Once",
+    "titulo": "Mona la Vampira",
+    "peso": null,
+    "agregado": "2026-10-11T16:50:40.670Z"
   }
 ]
