@@ -1677,5 +1677,22 @@
     "titulo": "Mona la Vampira",
     "peso": null,
     "agregado": "2026-10-11T16:51:00.228Z"
+  },
+  {
+    "imdbId": "tt33764258",
+    "tipo": "movie",
+    "temporada": null,
+    "episodio": null,
+    "url": "https://archive.org/download/la_odisea_2026_pelicula/la_odisea_2026.mkv",
+    "idioma": "Latino",
+    "idiomaDetalle": [],
+    "calidad": "720p",
+    "tags": [
+      "CAM"
+    ],
+    "plataforma": null,
+    "titulo": "La Odisea",
+    "peso": null,
+    "agregado": "2026-10-11T19:41:19.254Z"
   }
 ]
