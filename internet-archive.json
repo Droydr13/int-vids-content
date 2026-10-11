@@ -1461,5 +1461,23 @@
     "titulo": "Mona la Vampira",
     "peso": null,
     "agregado": "2026-10-11T16:50:43.341Z"
+  },
+  {
+    "imdbId": "tt0262972",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 15,
+    "url": "https://archive.org/download/mona_la_vampira_temporada_1/Mona%20la%20vampira%20s01e15%20Una%20ciudad%20pequena%20-%20La%20doble%20malvada.mkv",
+    "idioma": "Latino",
+    "idiomaDetalle": [],
+    "calidad": "720p",
+    "tags": [
+      "DVDRIP",
+      "AAC"
+    ],
+    "plataforma": "Canal Once",
+    "titulo": "Mona la Vampira",
+    "peso": null,
+    "agregado": "2026-10-11T16:50:44.666Z"
   }
 ]
