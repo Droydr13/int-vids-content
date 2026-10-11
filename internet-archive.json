@@ -1425,5 +1425,23 @@
     "titulo": "Mona la Vampira",
     "peso": null,
     "agregado": "2026-10-11T16:50:40.670Z"
+  },
+  {
+    "imdbId": "tt0262972",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 13,
+    "url": "https://archive.org/download/mona_la_vampira_temporada_1/Mona%20la%20vampira%20s01e13%20El%20espiritu%20del%20bosque%20-%20El%20regreso%20del%20comeninos.mkv",
+    "idioma": "Latino",
+    "idiomaDetalle": [],
+    "calidad": "720p",
+    "tags": [
+      "DVDRIP",
+      "AAC"
+    ],
+    "plataforma": "Canal Once",
+    "titulo": "Mona la Vampira",
+    "peso": null,
+    "agregado": "2026-10-11T16:50:41.900Z"
   }
 ]
