@@ -1551,5 +1551,23 @@
     "titulo": "Mona la Vampira",
     "peso": null,
     "agregado": "2026-10-11T16:50:50.188Z"
+  },
+  {
+    "imdbId": "tt0262972",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 20,
+    "url": "https://archive.org/download/mona_la_vampira_temporada_1/Mona%20la%20vampira%20s01e20%20El%20bolio%20de%20la%20rebalsa%20-%20Los%20substitutos%20subhumanos.mkv",
+    "idioma": "Latino",
+    "idiomaDetalle": [],
+    "calidad": "720p",
+    "tags": [
+      "DVDRIP",
+      "AAC"
+    ],
+    "plataforma": "Canal Once",
+    "titulo": "Mona la Vampira",
+    "peso": null,
+    "agregado": "2026-10-11T16:50:51.452Z"
   }
 ]
