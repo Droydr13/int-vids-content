@@ -2221,5 +2221,27 @@
     "titulo": "ジャッカー電撃隊",
     "peso": null,
     "agregado": "2026-10-11T22:50:34.837Z"
+  },
+  {
+    "imdbId": "tt0105793",
+    "tipo": "movie",
+    "temporada": null,
+    "episodio": null,
+    "url": "https://archive.org/download/el_mundo_segun_wayne_1992/El_mundo_segun_Wayne_1992_1080p.mkv",
+    "idioma": "Dual",
+    "idiomaDetalle": [
+      "Latino",
+      "Inglés"
+    ],
+    "calidad": "1080p",
+    "tags": [
+      "H264",
+      "AAC",
+      "60 FPS"
+    ],
+    "plataforma": null,
+    "titulo": "El mundo según Wayne",
+    "peso": "7.2",
+    "agregado": "2026-10-12T13:03:41.096Z"
   }
 ]
