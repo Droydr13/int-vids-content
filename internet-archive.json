@@ -2424,5 +2424,25 @@
     "titulo": "Un jefe en pañales: De vuelta en la cuna",
     "peso": null,
     "agregado": "2026-10-12T15:27:28.913Z"
+  },
+  {
+    "imdbId": "tt19361940",
+    "tipo": "series",
+    "temporada": 2,
+    "episodio": 9,
+    "url": "https://archive.org/download/boss_baby_back_in_the_crib_s2_lat/G4T0NP4%C3%914L3S%202.9.mkv",
+    "idioma": "Dual",
+    "idiomaDetalle": [
+      "Latino",
+      "Inglés"
+    ],
+    "calidad": "1080p",
+    "tags": [
+      "HDTV"
+    ],
+    "plataforma": null,
+    "titulo": "Un jefe en pañales: De vuelta en la cuna",
+    "peso": null,
+    "agregado": "2026-10-12T15:27:30.362Z"
   }
 ]
