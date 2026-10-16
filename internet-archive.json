@@ -2615,12 +2615,18 @@
     "episodio": 9,
     "url": "https://videro.my/api/videos/download/uvqefcqpj1zojf4",
     "idioma": "Latino",
-    "idiomaDetalle": [],
+    "idiomaDetalle": [
+      "Latino",
+      "Inglés"
+    ],
     "calidad": "1080p",
-    "tags": [],
-    "plataforma": null,
+    "tags": [
+      "AV1",
+      "BDRIP"
+    ],
+    "plataforma": "Netflix",
     "titulo": "El Buen Lugar",
-    "peso": null,
+    "peso": "366.4 MB",
     "agregado": "2026-10-16T19:33:44.750Z"
   },
   {
@@ -2629,11 +2635,8 @@
     "temporada": null,
     "episodio": null,
     "url": "https://videro.my/hls/830bf0af631011451a22b1ff3c1cc76088a441c541dcc58ad93a5f363cfb30be/index.m3u8",
-    "idioma": "Dual",
-    "idiomaDetalle": [
-      "Latino",
-      "Inglés"
-    ],
+    "idioma": "Latino",
+    "idiomaDetalle": [],
     "calidad": "1080p",
     "tags": [
       "H264",
