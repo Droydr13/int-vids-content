@@ -2607,5 +2607,20 @@
     "titulo": "La reliquia",
     "peso": null,
     "agregado": "2026-10-12T19:02:39.313Z"
+  },
+  {
+    "imdbId": "tt4955642",
+    "tipo": "series",
+    "temporada": 1,
+    "episodio": 9,
+    "url": "https://videro.my/api/videos/download/uvqefcqpj1zojf4",
+    "idioma": "Latino",
+    "idiomaDetalle": [],
+    "calidad": "1080p",
+    "tags": [],
+    "plataforma": null,
+    "titulo": "El Buen Lugar",
+    "peso": null,
+    "agregado": "2026-10-16T19:33:44.750Z"
   }
 ]
