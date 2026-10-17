@@ -2628,23 +2628,5 @@
     "titulo": "El Buen Lugar",
     "peso": "366.4 MB",
     "agregado": "2026-10-16T19:33:44.750Z"
-  },
-  {
-    "imdbId": "tt6262770",
-    "tipo": "movie",
-    "temporada": null,
-    "episodio": null,
-    "url": "https://videro.my/hls/830bf0af631011451a22b1ff3c1cc76088a441c541dcc58ad93a5f363cfb30be/index.m3u8",
-    "idioma": "Latino",
-    "idiomaDetalle": [],
-    "calidad": "1080p",
-    "tags": [
-      "H264",
-      "BDRIP"
-    ],
-    "plataforma": "Apple TV",
-    "titulo": "Tenzing: Conquistando el Everest",
-    "peso": "1.79 GB",
-    "agregado": "2026-10-16T21:08:32.113Z"
   }
 ]
